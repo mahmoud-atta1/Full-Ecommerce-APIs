@@ -551,7 +551,7 @@ GET /api/v1/products?category=electronics&price[lte]=500&sort=-ratingsAverage&li
 - totalPrice: Sum of all items
 - totalPriceAfterDiscount: After coupon applied
 - Validation: Stock availability check
-- Updates: Real-time price changes
+- Updates: Real-time prie changes
 ```
 
 ### 4. Review Aggregation
