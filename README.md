@@ -103,7 +103,7 @@ A **enterprise-grade** Node.js E-Commerce Backend API featuring advanced authent
   - Cash on delivery
   - Card payments
   - Order tracking
-  - Status updates
+  - Status update
 - **Auto Inventory**
   - Stock deduction
   - Sold counter
