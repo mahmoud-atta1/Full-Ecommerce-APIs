@@ -276,7 +276,7 @@ graph LR
 - CORS configuration
 - Rate limiting (100/15min)
 - Request validation
-- Error message sanitization
+- Error messag sanitization
 
 </td>
 </tr>
