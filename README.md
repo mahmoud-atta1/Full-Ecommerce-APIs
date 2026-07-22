@@ -487,7 +487,7 @@ curl "http://localhost:5000/api/v1/products?price[gte]=100&price[lte]=500&catego
 ### Create Order with Stripe
 
 ```bash
-curl -X POST http://localhost:5000/api/v1/orders/checkout-session \
+curl -X POST http://localhost:5000/api/v1/orders/checkut-session \
   -H "Authorization: Bearer YOUR_ACCESS_TOKEN" \
   -H "Content-Type: application/json" \
   -d '{
